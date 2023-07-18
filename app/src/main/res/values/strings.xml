@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="x_elevado_y">x<sup><small>y</small></sup></string>
+    <string name="max_num_characters">Não é possível inserir mais de 15 dígitos.</string>
+    <string name="invalid_format_used">Formato usado inválido.</string>
+    <string name="infinity_result">O cálculo está fora do intervalo aceito.</string>
+</resources>
